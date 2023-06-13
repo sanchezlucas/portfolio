@@ -1,0 +1,11 @@
+[en]
+title = "Lucas Sanchez"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[pt-br]
+title = "Lucas Sanchez"
+weight = 2
+LanguageName = "PT-BR"
+contentDir = "content/pt-br"
