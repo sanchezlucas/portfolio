@@ -29,7 +29,7 @@ Sou contribuidor de tradução de alguns softwares livres, KitScenarist, Ephemer
 
 Conhecimentos gerais de todo o processo de criação audiovisual. Apto a desenvolver nas áreas de: Animação, edição de vídeo, pós-produção (After e Nuke), captação de imagens (ambos fotografia e vídeo), áudio, criação de DCPs, design (gráfico e motion) e diagramação.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+<!--Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
 Hugo makes use of a variety of open source projects including:
 
@@ -45,4 +45,4 @@ Hugo is for people who want to hand code their own website without worrying abou
 
 Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more and contribute on [GitHub](https://github.com/gohugoio).-->

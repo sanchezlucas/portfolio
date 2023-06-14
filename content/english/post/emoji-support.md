@@ -8,43 +8,11 @@ tags = [
 ]
 +++
 
-Emoji can be enabled in a Hugo project in a number of ways.
 
-<!--more-->
+Vídeo mostrando a incrível transformação que a Toyota e a Revoada estão realizando no Brasil. O objetivo do projeto é dar um novo significado aos resíduos da fábrica, que normalmente seriam descartados, transformando-os em belas mochilas e bolsas pelas habilidosas costureiras. A Revoada está facilitando o processo para capacitar as mulheres, permitindo que elas ampliem seu catálogo de produtos e melhorem a renda familiar.
 
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+Case premiado no primeiro Festival Elán.
 
-To enable emoji globally, set `enableEmoji` to `true` in your site's [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
-
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
-
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
-
----
-
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
-
-{{< highlight html >}}
-.emoji {
-font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-{{< /highlight >}}
-
-{{< css.inline >}}
-
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style>
-
-{{< /css.inline >}}
+Filmado por Marcelo Kohek
+Editado por André Tosatti
+CGI por Lucas Sanchez
