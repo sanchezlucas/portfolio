@@ -7,7 +7,7 @@ tags = [
     "comercial",
     "animação",
 ]
-thumbnail= "images/corning1.jpg"
+thumbnail= "images/corning/corning1.jpg"
 +++
 <!-----
 title: 'Corning - Stand'
@@ -21,30 +21,18 @@ thumbnail= "images/landscape.jpg"
 
 Projeto para estande virtual da Corning na TELCO TRANSFORMATION LATAM desenvolvido em 10 dias, fui responsável pela modelagem, texturização, iluminação, renderização e animação.
 
-Sample sem áudio:
+
+![BeautyPass](/images/corning/corning2.jpg)
 
 
+![Rig](/images/corning/corning3.webp)
+> Rig/Keyframes
 
-{{< figure src="images/corning2.jpg" alt="image" caption="figure-normal (without any classes)" >}}
+# Breakdown:
 
+![breakdown](/images/corning/breakdown.GIF)
 
-
-{{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-big" class="big" >}}
-
-
-
-{{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-medium" class="medium" >}}
+# Sample sem áudio:
 
 
-
-{{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-small" class="small" >}}
-
-
-{{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-tiny" class="tiny" >}}
-
-
-{{< figure src="https://via.placeholder.com/400x280" alt="image" caption="figure-left" class="left" >}}
-
-{{< figure src="https://via.placeholder.com/400x280" alt="image" caption="figure-right" class="right" >}}
-
-
+{{< video src="/images/corning/semaudio.webm" type="video/webm" preload="auto" >}}

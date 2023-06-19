@@ -12,7 +12,7 @@
 
   [[main]]
   name = "Filmes"
-  weight = 210
+  weight = 230
   identifier = "filmes"
   url = "/pt-br/film/"
   parent = "portfolio"
@@ -26,7 +26,7 @@
 
       [[main]]
   name = "Projetos"
-  weight = 230
+  weight = 210
   identifier = "projetos"
   url = "/pt-br/post/"
   parent = "portfolio"
@@ -43,6 +43,12 @@
   weight = 400
   identifier = "sobre"
   url = "/pt-br/about/"
+
+    [[main]]
+  name = "CV"
+  weight = 500
+  identifier = "cv"
+  url = "/pt-br/cv/"
 
 
   #[[main]]

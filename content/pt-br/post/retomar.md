@@ -8,7 +8,7 @@ tags = [
     "comercial",
     "3d",
 ]
-thumbnail= "images/retomar_thumb.jpg"
+thumbnail= "images/retomar/retomar_thumb.jpg"
 +++
 
 {{< youtube WWBy_x9F4iw >}}
