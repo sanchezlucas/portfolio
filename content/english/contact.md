@@ -1,7 +1,7 @@
 ---
 author: Lucas Sanchez
-title: Contact
-date: 2023-04-23
-description: Contact Page
+title: Send me an email!
+date: 2019-03-08
+description: Send me an email!
 contact: true
 ---

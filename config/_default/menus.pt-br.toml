@@ -5,37 +5,24 @@
   url = "/pt-br/"
 
   [[main]]
-  name = "Portfólio"
-  weight = 200
-  identifier = "portfolio"
-  #url = "/pt-br/portfolio/"
-
-  [[main]]
   name = "Filmes"
   weight = 230
   identifier = "filmes"
   url = "/pt-br/film/"
-  parent = "portfolio"
+  #parent = "portfolio"
 
     [[main]]
   name = "Reels"
-  weight = 220
+  weight = 200
   identifier = "reels"
   url = "/pt-br/reels/"
-  parent = "portfolio"
+  #parent = "portfolio"
 
       [[main]]
   name = "Projetos"
   weight = 210
   identifier = "projetos"
-  url = "/pt-br/post/"
-  parent = "portfolio"
-
-    #[[main]]
-  #name = "3D"
-  #weight = 230
-  #identifier = "3D"
-  #url = "/pt-br/3d/"
+  url = "/pt-br/"
   #parent = "portfolio"
 
   [[main]]
@@ -49,26 +36,6 @@
   weight = 500
   identifier = "cv"
   url = "/pt-br/cv/"
-
-
-  #[[main]]
-  #name = "Accomplishments"
-  #weight = 500
-  #identifier = "accomplishments"
-
-  #[[main]]
-  #name = "Awards"
-  #weight = 510
-  #identifier = "awards"
-  #url = "/pt-br/awards/"
-  #parent = "accomplishments"
-
-  #[[main]]
-  #name = "Certifications"
-  #weight = 520
-  #identifier = "certifications"
-  #url = "/pt-br/certifications/"
-  #parent = "accomplishments"
 
   [[main]]
   name = "Contato"

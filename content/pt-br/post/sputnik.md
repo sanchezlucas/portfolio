@@ -1,7 +1,7 @@
  +++
 author = "Lucas Sanchez"
 title = "Sputnik"
-date = "2019-03-05"
+date = "2023-06-10"
 description = "Sputnik"
 tags = [
     "cgi",
@@ -11,6 +11,7 @@ tags = [
 thumbnail= "images/sputnik/sputnik_thumb.jpg"
 +++
 
+Projeto pessoal - Modelo 3d do primeiro satélite artificial.
 
 ![Beauty](/images/sputnik/sputnik01.jpg)
 

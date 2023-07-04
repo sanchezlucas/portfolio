@@ -1,6 +1,6 @@
 +++
-title = "Filmes"
-description = "Filmes nos quais participei das mais variadas formas!"
+title = "Reels"
+description = "Reels Demonstrando meu trabalho."
 date = "2023-04-10"
 aliases = ["reels"]
 author = "Lucas Sanchez"

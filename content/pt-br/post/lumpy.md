@@ -1,34 +1,38 @@
  +++
 author = "Lucas Sanchez"
-title = "Likeness de Dr. Drauzio Varella"
-date = "2019-03-05"
+title = "Personagem - Princesa Caroço"
+date = "2023-06-19"
 description = "Personagem"
 tags = [
     "cgi",
     "personal",
     "3d",
 ]
-thumbnail= "images/pessoais/drauzio_thumb.jpg"
+thumbnail= "images/pessoais/lsp_thumb.jpg"
 +++
 
-### WIP Estudo de likeness de Dr. Drauzio Varella
+Fan art baseada na Princesa Caroço, da série Hora de Aventura do Cartoon Network.
 
-# Arte Final:
+# Arte Final
 
-![Beauty](/images/pessoais/drauzio01.jpg)
+![Beauty](/images/pessoais/lsp01.jpg)
 
-### Low Key
+## Turnaround
 
-![Beauty](/images/pessoais/drauzio03.jpg)
+{{< video src="/images/pessoais/lumpy.webm" type="video/webm" preload="auto" >}}
 
-### Backlight
+### Viewport
 
-![Beauty](/images/pessoais/drauzio04.jpg)
+![Viewport](/images/pessoais/lsp02.jpg)
+
+### Compositing
+
+![Comp](/images/pessoais/lsp03.jpg)
 
 ---
 
 ## Wireframe:
 
-![Wireframe](/images/pessoais/drauzio02.jpg)
+![Wireframe](/images/pessoais/lsp_wireframe.jpg)
 
 

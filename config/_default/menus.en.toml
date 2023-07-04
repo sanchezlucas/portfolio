@@ -5,16 +5,25 @@
   url = "/"
 
   [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+  name = "Films"
+  weight = 230
+  identifier = "films"
+  url = "/film/"
+  #parent = "portfolio"
 
-  [[main]]
-  name = "Portfolio"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
+    [[main]]
+  name = "Reels"
+  weight = 200
+  identifier = "reels"
+  url = "/reels/"
+  #parent = "portfolio"
+
+      [[main]]
+  name = "Projects"
+  weight = 210
+  identifier = "projects"
+  url = "/"
+  #parent = "portfolio"
 
   [[main]]
   name = "About"
@@ -22,30 +31,18 @@
   identifier = "about"
   url = "/about/"
 
-  [[main]]
-  name = "Accomplishments"
+    [[main]]
+  name = "Resume"
   weight = 500
-  identifier = "accomplishments"
-
-  [[main]]
-  name = "Awards"
-  weight = 510
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"  
-
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "accomplishments"
+  identifier = "resume"
+  url = "/resume/"
 
   [[main]]
   name = "Contact"
   weight = 600
   identifier = "contact"
   url = "/contact/"
+
 
   [[footer]]
   name = "imprint"

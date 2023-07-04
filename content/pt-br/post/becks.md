@@ -1,7 +1,7 @@
  +++
 author = "Lucas Sanchez"
 title = "Becks - Vizdev"
-date = "2019-03-05"
+date = "2023-06-21"
 description = "Becks - Vizdev"
 tags = [
     "cgi",
@@ -13,7 +13,7 @@ thumbnail= "images/becks/becks_thumb.jpg"
 
 {{< youtube Y9n_cbXYTtg >}}
 
-Esse é um Product Visualization que eu fiz
+Product Visualization que desenvolvi na Oitorama Filmes para apresentação no lançamento brasileiro da cerveja Beck's.
 
 ![Beauty](/images/becks/becks01.jpg)
 

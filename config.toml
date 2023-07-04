@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'lks.art.br'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Portfolio - Lucas Sanchez'
 theme = 'anatole'

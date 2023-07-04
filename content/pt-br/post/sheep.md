@@ -1,7 +1,7 @@
  +++
 author = "Lucas Sanchez"
 title = "Sheep in The Big City"
-date = "2019-03-05"
+date = "2023-06-17"
 description = "Personagem"
 tags = [
     "cgi",
@@ -11,7 +11,7 @@ tags = [
 thumbnail= "images/pessoais/sheep_thumb.jpg"
 +++
 
-
+Fan art baseada no personagem Sheep, da série Sheep na Cidade Grande do Cartoon Network.
 
 # Arte Final:
 
@@ -19,7 +19,6 @@ thumbnail= "images/pessoais/sheep_thumb.jpg"
 
 ## Viewport:
 
-{{< youtube Gfcvs5xWKEw >}}
 ![Viewport](/images/pessoais/sheep02.jpg)
 
 ## Cenário - Overview

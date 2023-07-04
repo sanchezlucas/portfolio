@@ -1,8 +1,8 @@
 +++
 author = "Lucas Sanchez"
 title = "Toyota - Projeto ReTomar"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+date = "2023-06-11"
+description = "Projeto Retomar"
 tags = [
     "cgi",
     "comercial",

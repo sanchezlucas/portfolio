@@ -1,7 +1,7 @@
  +++
 author = "Lucas Sanchez"
 title = "Likeness de Dr. Drauzio Varella"
-date = "2019-03-05"
+date = "2023-06-01"
 description = "Personagem"
 tags = [
     "cgi",

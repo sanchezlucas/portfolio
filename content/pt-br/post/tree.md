@@ -1,7 +1,7 @@
  +++
 author = "Lucas Sanchez"
 title = "Arvore Procedural em Geometry nodes"
-date = "2019-03-05"
+date = "2023-06-14"
 description = "Arvore Procedural"
 tags = [
     "cgi",
@@ -11,7 +11,7 @@ tags = [
 thumbnail= "images/arvore/tree_thumb.jpg"
 +++
 
-
+Projeto desenvolvido como estudo de modelagem procedural no blender, usando o sistema Geometry nodes, resultando num modelo completamente paramétrico.
 
 # Arte Final:
 

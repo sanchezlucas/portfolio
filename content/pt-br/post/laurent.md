@@ -1,7 +1,7 @@
  +++
 author = "Lucas Sanchez"
 title = "Laurent Suaudeau - Aulas Online"
-date = "2019-03-05"
+date = "2023-06-22"
 description = "Materiais de divulgação - Aulas Online"
 tags = [
     "cgi",
@@ -12,6 +12,10 @@ tags = [
 ]
 thumbnail= "images/laurent/laurentthumb.jpg"
 +++
+
+Trabalhei em parceria com a Escola Laurent Suaudeau para viabilizar a realização dos cursos de forma ao vivo e online no período entre 2020 e 2022.
+
+Idealizei os materiais de divulgação dos cursos, comunicação, vinhetas, transições e layouts das lives nesse período, bem como o workflow para viabilizar as transmissões e interação com o público.
 
 ## Identidade Visual - Livestream
 
@@ -55,5 +59,7 @@ Filtro AR desenvolvido para divulgação dos cursos online no instagram da Escol
 {{< youtube pJ1RRTnByY4 >}}
 {{< youtube bsZ_pZmLUTE >}}
 
-Edição por Lucas Sanchez e André Tosatti
+Edição por Lucas Sanchez e André Tosatti.
+
+{{< youtube 6s26JPcSKgU >}}
 

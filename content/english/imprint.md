@@ -1,7 +1,5 @@
-# Legal Disclosure
-
-Information in accordance with the applicable law
+# Informações
 
 Lucas Sanchez\
-São Paulo - SP, Brazil\
+São Paulo - SP, Brasil\
 2023
