@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Sanchez</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Lucas Sanchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laurent Suaudeau - Live Courses</title>
+      <link>https://example.com/post/laurent/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/laurent/</guid>
+      
+        <description>Promotional materials  - Live Courses</description>
+      
+    </item>
+    
+    <item>
+      <title>Becks - Vizdev</title>
+      <link>https://example.com/post/becks/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/becks/</guid>
+      
+        <description>Becks - Vizdev</description>
+      
+    </item>
+    
+    <item>
+      <title>Holidays Pagseguro</title>
+      <link>https://example.com/post/pagseguro/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/pagseguro/</guid>
+      
+        <description>Email</description>
+      
+    </item>
+    
+    <item>
+      <title>Character - Lumpy Space Princess</title>
+      <link>https://example.com/post/lumpy/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/lumpy/</guid>
+      
+        <description>Personagem</description>
+      
+    </item>
+    
+    <item>
+      <title>Minizinhas Pagseguro</title>
+      <link>https://example.com/post/minizinhas/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/minizinhas/</guid>
+      
+        <description>Hardsurface Modeling</description>
+      
+    </item>
+    
+    <item>
+      <title>Sheep in The Big City</title>
+      <link>https://example.com/post/sheep/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sheep/</guid>
+      
+        <description>Character</description>
+      
+    </item>
+    
+    <item>
+      <title>Procedural Tree in Geometry nodes</title>
+      <link>https://example.com/post/tree/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/tree/</guid>
+      
+        <description>Procedural Tree</description>
+      
+    </item>
+    
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>https://example.com/post/misc/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/misc/</guid>
+      
+        <description>Miscellaneous Projects</description>
+      
+    </item>
+    
+    <item>
+      <title>Corning - Stand</title>
+      <link>https://example.com/post/corning/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/corning/</guid>
+      
+        <description>Corning - Stand</description>
+      
+    </item>
+    
+    <item>
+      <title>Toyota - ReTomar Project</title>
+      <link>https://example.com/post/retomar/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/retomar/</guid>
+      
+        <description>Projeto Retomar</description>
+      
+    </item>
+    
+    <item>
+      <title>Sputnik</title>
+      <link>https://example.com/post/sputnik/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sputnik/</guid>
+      
+        <description>Sputnik</description>
+      
+    </item>
+    
+    <item>
+      <title>Dagon</title>
+      <link>https://example.com/post/dagon/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/dagon/</guid>
+      
+        <description>Curta - set</description>
+      
+    </item>
+    
+    <item>
+      <title>Likeness de Dr. Drauzio Varella</title>
+      <link>https://example.com/post/drauzio/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/drauzio/</guid>
+      
+        <description>Character</description>
+      
+    </item>
+    
+    <item>
+      <title>Films</title>
+      <link>https://example.com/film/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/film/</guid>
+      
+        <description>Films in which I worked in the most varied ways!</description>
+      
+    </item>
+    
+    <item>
+      <title>Reels</title>
+      <link>https://example.com/reels/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/reels/</guid>
+      
+        <description>Reels of my work.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Send me an email!</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      
+        <description>Send me an email!</description>
+      
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      
+        <description>About Lucas Sanchez</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume - Lucas Sanchez dos Anjos</title>
+      <link>https://example.com/resume/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/resume/</guid>
+      
+        <description>Resume Lucas Sanchez</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/imprint/</guid>
+      
+        <description>Informações Lucas Sanchez
+São Paulo - SP, Brasil
+2023</description>
+      
+    </item>
+    
+  </channel>
+</rss>

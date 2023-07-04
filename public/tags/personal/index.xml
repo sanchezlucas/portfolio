@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Lucas Sanchez</title>
+    <link>https://example.com/tags/personal/</link>
+    <description>Recent content in personal on Lucas Sanchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character - Lumpy Space Princess</title>
+      <link>https://example.com/post/lumpy/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/lumpy/</guid>
+      
+        <description>Personagem</description>
+      
+    </item>
+    
+    <item>
+      <title>Sheep in The Big City</title>
+      <link>https://example.com/post/sheep/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sheep/</guid>
+      
+        <description>Character</description>
+      
+    </item>
+    
+    <item>
+      <title>Procedural Tree in Geometry nodes</title>
+      <link>https://example.com/post/tree/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/tree/</guid>
+      
+        <description>Procedural Tree</description>
+      
+    </item>
+    
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>https://example.com/post/misc/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/misc/</guid>
+      
+        <description>Miscellaneous Projects</description>
+      
+    </item>
+    
+    <item>
+      <title>Sputnik</title>
+      <link>https://example.com/post/sputnik/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sputnik/</guid>
+      
+        <description>Sputnik</description>
+      
+    </item>
+    
+    <item>
+      <title>Dagon</title>
+      <link>https://example.com/post/dagon/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/dagon/</guid>
+      
+        <description>Curta - set</description>
+      
+    </item>
+    
+    <item>
+      <title>Likeness de Dr. Drauzio Varella</title>
+      <link>https://example.com/post/drauzio/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/drauzio/</guid>
+      
+        <description>Character</description>
+      
+    </item>
+    
+  </channel>
+</rss>

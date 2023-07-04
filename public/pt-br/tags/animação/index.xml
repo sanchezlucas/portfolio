@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animação on Lucas Sanchez</title>
+    <link>https://example.com/pt-br/tags/anima%C3%A7%C3%A3o/</link>
+    <description>Recent content in animação on Lucas Sanchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/pt-br/tags/anima%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corning - Stand</title>
+      <link>https://example.com/pt-br/post/corning/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/pt-br/post/corning/</guid>
+      
+        <description>Corning - Stand</description>
+      
+    </item>
+    
+  </channel>
+</rss>

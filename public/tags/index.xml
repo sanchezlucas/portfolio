@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lucas Sanchez</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Lucas Sanchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d</title>
+      <link>https://example.com/tags/3d/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/3d/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cgi</title>
+      <link>https://example.com/tags/cgi/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/cgi/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>comercial</title>
+      <link>https://example.com/tags/comercial/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/comercial/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>livestream</title>
+      <link>https://example.com/tags/livestream/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/livestream/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>https://example.com/tags/social-media/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/social-media/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://example.com/tags/personal/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/personal/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>character</title>
+      <link>https://example.com/tags/character/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/character/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>animation</title>
+      <link>https://example.com/tags/animation/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/animation/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

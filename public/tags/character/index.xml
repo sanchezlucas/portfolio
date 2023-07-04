@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>character on Lucas Sanchez</title>
+    <link>https://example.com/tags/character/</link>
+    <description>Recent content in character on Lucas Sanchez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/character/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sheep in The Big City</title>
+      <link>https://example.com/post/sheep/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sheep/</guid>
+      
+        <description>Character</description>
+      
+    </item>
+    
+    <item>
+      <title>Miscellaneous Projects</title>
+      <link>https://example.com/post/misc/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/misc/</guid>
+      
+        <description>Miscellaneous Projects</description>
+      
+    </item>
+    
+  </channel>
+</rss>
